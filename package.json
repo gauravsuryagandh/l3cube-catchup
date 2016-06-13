@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/gauravsuryagandh/l3cube-catchup/issues"
   },
-  "homepage": "https://github.com/gauravsuryagandh/l3cube-catchup#readme"
+  "homepage": "https://github.com/gauravsuryagandh/l3cube-catchup#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "parse-dashboard": "^1.0.14",
+    "parse-server": "^2.2.13"
+  }
 }
